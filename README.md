@@ -33,4 +33,5 @@ suggested approach:
 
 ## Files
 webcrawler.py - python code which crawls https://www.man7.org/linux/man-pages/ and pulls out the various headings then outputs them in a JSON file
-man_pages_data.json - resulting json file
+example_man_pages_data.json - resulting json file
+webcrawler-working.py - this was the original "yay, its working" pythong, i've saved just in case it all goes wrong!! :-)
